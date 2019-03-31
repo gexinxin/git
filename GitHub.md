@@ -50,27 +50,27 @@
 
 #### bash  命令体验
 
-##### # change directory     cd
+#####  change directory     cd
 
 ###### 改变目录
 
-##### # make directory   mkdir
+#####  make directory   mkdir
 
 ###### 创建目录
 
-##### # print working directory   pwd
+#####  print working directory   pwd
 
 ###### 打印当前工作目录
 
-##### # move  mv
+#####  move  mv
 
 ###### 移动文件
 
-##### # copy cp
+#####  copy cp
 
 ###### 复制
 
-##### # remove  rm
+#####  remove  rm
 
 ###### 移动文件
 
@@ -174,12 +174,12 @@
 
 ###### 编辑模式
 
-####### i
+###### i
 
 ###### 回到普通模式
 
-####### Esc
+###### Esc
 
 ###### 保存退出
 
-####### wq
+###### wq
